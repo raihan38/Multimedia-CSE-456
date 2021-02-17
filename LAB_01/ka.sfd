@@ -1,0 +1,258 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, Dell
+UComments: "2021-2-17: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 220 733335361 13885]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613566098
+ModificationTime: 1613572882
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 2268 27 9
+BeginChars: 65536 2
+
+StartChar: uni0985
+Encoding: 2437 2437 0
+Width: 1000
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+419 500 m 1
+ 427 480 l 25
+ 419 440 l 1
+ 419 440 l 1
+ 401 426 l 1
+ 381 420 l 1
+ 368.201171875 417.53515625 335.040039062 410.451171875 317 428 c 1
+ 333 418 l 1
+ 297 456 l 1
+ 291 484 l 1
+ 295 526 l 1
+ 299 554 l 1
+ 319 576 l 1
+ 353 610 l 1
+ 353 610 387 624 389 624 c 0
+ 391 624 437 620 437 620 c 1
+ 481 608 l 1
+ 527 576 l 1
+ 561 544 l 1
+ 583 512 l 1
+ 603 466 l 1
+ 617 414 l 1
+ 625 362 l 1
+ 627 306 l 1
+ 627 306 620 246 623 246 c 0
+ 626 246 563 284 563 284 c 1
+ 563 284 551 294 548 298 c 0
+ 545 302 541 364 541 364 c 25
+ 533 410 l 25
+ 523 450 l 25
+ 505 482 l 25
+ 485 504 l 25
+ 455 520 l 25
+ 419 500 l 1
+0 798 m 25
+ 238 798 l 25
+ 502 801 l 25
+ 835 804 l 25
+ 1000 798 l 25
+ 955 705 l 25
+ 826 702 l 25
+ 769 699 l 25
+ 772 522 l 25
+ 781 279 l 25
+ 787 135 l 25
+ 790 0 l 25
+ 667 120 l 25
+ 622 159 l 1
+ 577 202 l 1
+ 551 162 l 1
+ 521 132 l 1
+ 521 132 485 112 483 112 c 0
+ 481 112 453 98 453 98 c 1
+ 453 98 415 94 407 94 c 0
+ 399 94 355 100 355 100 c 1
+ 301 120 l 1
+ 223 170 l 1
+ 165 226 l 1
+ 131 274 l 1
+ 93 350 l 1
+ 69 416 l 1
+ 49 466 l 1
+ 38 520 l 1
+ 82 552 l 25
+ 104 504 l 25
+ 138 432 l 25
+ 138 432 174 366 174 364 c 0
+ 174 362 220 298 220 298 c 25
+ 278 226 l 25
+ 308 206 l 25
+ 360 190 l 25
+ 406 188 l 25
+ 442 198 l 25
+ 482 218 l 25
+ 512 254 l 25
+ 548 298 l 25
+ 592 264 l 1
+ 667 202 l 1
+ 667 202 l 1
+ 707 168 l 1
+ 719 158 l 1
+ 714 198 l 1
+ 708 314 l 25
+ 702 400 l 25
+ 698 494 l 25
+ 694 572 l 25
+ 694 696 l 25
+ 414 702 l 25
+ 180 698 l 25
+ 104 698 l 25
+ 0 798 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni0995
+Encoding: 2453 2453 1
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+690 626 m 25
+ 777 617 l 25
+ 849 599 l 25
+ 906 548 l 25
+ 936 512 l 25
+ 957 464 l 25
+ 960 416 l 25
+ 951 362 l 25
+ 915 302 l 25
+ 870 272 l 25
+ 825 263 l 25
+ 771 281 l 1
+ 723 302 l 29
+ 708 371 l 1
+ 726 407 l 25
+ 753 425 l 25
+ 795 434 l 25
+ 849 413 l 25
+ 873 401 l 25
+ 879 446 l 25
+ 846 479 l 25
+ 810 500 l 25
+ 774 509 l 25
+ 732 512 l 25
+ 681 503 l 25
+ 654 476 l 25
+ 648 554 l 25
+ 639 614 l 25
+ 645 638 l 25
+ 639 614 l 25
+ 690 626 l 25
+545 494 m 25
+ 479 464 l 25
+ 368 419 l 25
+ 287 380 l 25
+ 221 350 l 25
+ 260 311 l 25
+ 296 305 l 25
+ 335 299 l 25
+ 377 281 l 25
+ 455 239 l 25
+ 509 212 l 25
+ 509 212 551 182 542 176 c 0
+ 533 170 539 308 539 308 c 25
+ 542 401 l 25
+ 545 494 l 25
+643 706 m 1
+ 643 654 l 25
+ 643 586 l 25
+ 643 586 643 498 643 500 c 0
+ 643 502 645 418 645 418 c 25
+ 645 360 l 25
+ 645 276 l 25
+ 645 212 l 25
+ 645 146 l 25
+ 644 41 l 25
+ 644 0 l 25
+ 599 29 l 25
+ 566 68 l 25
+ 536 86 l 25
+ 467 128 l 25
+ 371 170 l 25
+ 287 203 l 25
+ 203 224 l 25
+ 143 224 l 25
+ 89 269 l 25
+ 53 299 l 25
+ 0 350 l 25
+ 95 401 l 25
+ 191 446 l 25
+ 305 503 l 25
+ 413 551 l 25
+ 521 602 l 25
+ 542 620 l 25
+ 545 665 l 25
+ 545 665 550 714 549 706 c 0
+ 548 698 643 706 643 706 c 1
+0 798 m 25
+ 127 798 l 25
+ 245 798 l 25
+ 367 798 l 25
+ 507 798 l 25
+ 625 800 l 25
+ 761 800 l 25
+ 907 800 l 25
+ 1000 800 l 25
+ 959 712 l 25
+ 843 708 l 25
+ 721 708 l 25
+ 643 706 l 25
+ 549 706 l 25
+ 453 706 l 25
+ 363 708 l 25
+ 267 708 l 25
+ 187 708 l 25
+ 125 708 l 25
+ 125 708 71 706 71 708 c 0
+ 71 710 28 763 0 798 c 25
+EndSplineSet
+Validated: 37
+EndChar
+EndChars
+EndSplineFont
